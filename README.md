@@ -1,9 +1,10 @@
-Precision Temperature Controller 🌡️
+Precision Temperature Controller 
+
 Project Overview
 
 A temperature sensing and control system designed using an NTC thermistor, op-amp amplifier, low-pass filter, and Schmitt trigger. The circuit converts temperature variations into a stable output signal for reliable threshold-based temperature control.
 
-⚙️ Working Principle
+Working Principle
 
 NTC Thermistor → Voltage Divider → Amplifier → Low-Pass Filter → Schmitt Trigger → Output
 
@@ -17,7 +18,8 @@ Output: Provides a clean and stable ON/OFF indication.
 Circuit Stage	Feedback	Purpose
 Amplifier	Negative Feedback	Stable and controlled amplification
 Schmitt Trigger	Positive Feedback	Hysteresis and stable switching
-🔧 Components
+
+ Components
 NTC Thermistor
 Op-Amp
 Resistors
@@ -25,7 +27,9 @@ Resistors
 +5 V Supply
 LED
 Connecting wires and breadboard
-🛠️ Key Concepts
+
+
+Key Concepts
 Temperature Sensing
 NTC Thermistor
 Voltage Divider
